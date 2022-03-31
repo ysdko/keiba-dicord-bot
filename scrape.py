@@ -1,7 +1,6 @@
 # coding: UTF-8
 import requests
 from bs4 import BeautifulSoup
-import schedule
 import time
 import requests
 import os
