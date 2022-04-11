@@ -9,7 +9,9 @@ idna==3.2
 itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
+Pillow==9.1.0
 protobuf==3.17.3
+pyocr==0.8.1
 python-dotenv==0.19.2
 pywatchman==1.4.1
 requests==2.26.0
